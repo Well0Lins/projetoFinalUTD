@@ -1,7 +1,7 @@
 const env = {
     database: 'db_projeto',
-    username: 'root',
-    password: '123456',
+    username: 'username',
+    password: '******',
     host: 'localhost',
     dialect: 'mysql', 
 }
